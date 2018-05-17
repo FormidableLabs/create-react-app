@@ -213,6 +213,12 @@ module.exports = {
               },
             ],
           },
+          // The raw-loader allows importing of text files so their content
+          // can be used in components like the CodePane.
+          {
+            test: [/\.txt$/, /\.md$/, /\.example$/],
+            use: 'raw-loader',
+          },
           // "file" loader makes sure those assets get served by WebpackDevServer.
           // When you `import` an asset, you get its (virtual) filename.
           // In production, they would get copied to the `build` folder.
