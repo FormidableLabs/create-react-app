@@ -8,3 +8,4 @@ Please refer to its documentation:
 - [Create React App User Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
 
 - [Spectacle docs](https://formidable.com/open-source/spectacle/)
+
