@@ -67,7 +67,7 @@
     "react-hot-loader": "^3.1.1",
     "resolve": "1.8.1",
     "sass-loader": "7.1.0",
-    "spectacle": "^5.3.0",
+    "spectacle": "^5.4.0",
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.1",
